@@ -17,4 +17,12 @@ sdkflsjfk
 abjklasl
 	}
 kalsdfjklsdfjkjl
+
+
+
+
+public static void main1(String[]args) {
+	SOujanya;
+	Parimala;
+}
 }
