@@ -6,6 +6,7 @@ public class ksnlsd {
 		// TODO Auto-generated method stub
 driver.findElement(SOujahnya).click();
 driver.findElement(Abhishek).click();
+driver.findElement(Suresh).click();
 	}
 
 }
