@@ -5,6 +5,7 @@ public class ksnlsd {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 driver.findElement(SOujahnya).click();
+driver.findElement(Abhishek).click();
 	}
 
 }
