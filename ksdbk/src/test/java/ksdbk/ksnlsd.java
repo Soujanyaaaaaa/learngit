@@ -21,8 +21,8 @@ kalsdfjklsdfjkjl
 
 
 
-public static void main1(String[]args) {
-	SOujanya;
+public static3 void main1(String[]args) {
+	kslSOujanya;
 	Parimala;
 }
 }
